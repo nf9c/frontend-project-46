@@ -1,0 +1,26 @@
+{
+  "name": "@hexlet/code",
+  "version": "1.0.0",
+  "description": "The program calculates the differences between the two files and displays the result.",
+  "main": "gendiff.js",
+  "scripts": {
+    "test": "dunno"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nf9c/frontend-project-46.git"
+  },
+  "keywords": [
+    "difference",
+    "calculator"
+  ],
+  "author": "nf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nf9c/frontend-project-46/issues"
+  },
+  "homepage": "https://github.com/nf9c/frontend-project-46#readme",
+  "dependencies": {
+    "commander": "^10.0.0"
+  }
+}
