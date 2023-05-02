@@ -2,6 +2,7 @@
   "name": "@hexlet/code",
   "version": "1.0.0",
   "description": "The program calculates the differences between the two files and displays the result.",
+  "type": "module",
   "main": "gendiff.js",
   "scripts": {
     "test": "dunno"
